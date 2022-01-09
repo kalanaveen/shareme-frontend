@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  body{
+     @apply scrollbar-hide font-sans;
+  }
+}
+
+@layer components{
+  .isActiveStyle{
+     @apply flex items-center px-5 gap-3 font-extrabold  border-black transition-all duration-200 ease-in-out capitalize;
+  }
+  .isNotActiveStyle{
+    @apply flex items-center px-5 gap-5 text-gray-600 hover:text-black transition-all duration-200 ease-in-out capitalize
+  }
+}
