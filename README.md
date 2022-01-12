@@ -1,3 +1,39 @@
+Build a ShareMe application with technoligies like Next JS ,Tailwind Css an Sanity,in this application we can post a photo,comment on post and see user profile.We can also search a post.
+
+home page
+
+![image](https://user-images.githubusercontent.com/34640475/149071208-5028a8e4-7282-4ccc-a21d-472bfce23267.png)
+
+
+post detail page
+
+![image](https://user-images.githubusercontent.com/34640475/149071695-55fae6b8-b6e3-43d0-afc3-9dd0b072fb14.png)
+
+user profile page
+
+![image](https://user-images.githubusercontent.com/34640475/149071769-70afa109-6045-4426-9249-445b979ab015.png)
+
+Key Features
+    
+    Post a photo.
+    Delete a post.
+    comment on post.
+    Search a post.
+    Category wise post.
+    Fully responsive with help of tailwind css.
+    Signin functionaity with react google login.
+    
+Key Technologies
+
+    React.js
+    Next.js
+    Tailwind css
+    Sanity
+    React Google Login
+    Masonry Layout
+    ReactIcons.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
